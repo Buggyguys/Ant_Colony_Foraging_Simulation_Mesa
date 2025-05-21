@@ -57,8 +57,6 @@ The simulation includes four types of agents:
 
 ### Dual-Pheromone System
 
-Unlike simpler models that use a single pheromone type, this simulation uses a bidirectional trail system:
-
 1. **To-Nest Pheromones** (Blue): 
    - Created by ants carrying food back to the nest
    - Help other ants find their way back to the nest
